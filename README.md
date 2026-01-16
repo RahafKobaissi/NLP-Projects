@@ -42,11 +42,13 @@ A deep learning notebook for text classification using:
 ---
 
 ## 📂 Repository Structure
+```
 NLP/
-├── 01_Spam_Classification/
-│   ├── Spam_Detection.ipynb
-│   └── README.md
-├── 02_RNN_Classification/
-│   ├── RNN_classification.ipynb
-│   └── README.md
-└── README.md
+|— 01_Spam_Classification/
+|   |— Spam_Detection.ipynb
+|   |— README.md
+|— 02_RNN_Classification/
+|   |— RNN_classification.ipynb
+|   |— README.md
+|— README.md
+```
