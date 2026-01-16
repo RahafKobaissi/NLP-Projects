@@ -1,4 +1,4 @@
-# NLP Projects Portfolio 🧠📚
+# NLP Projects 🧠📚
 
 This repository contains a collection of **Natural Language Processing (NLP)** projects implemented in **Python**, focused on building strong fundamentals in **text preprocessing, feature extraction, and text classification** using both **machine learning** and **deep learning** approaches.
 
@@ -44,9 +44,9 @@ A deep learning notebook for text classification using:
 ## 📂 Repository Structure
 NLP/
 ├── 01_Spam_Classification/
-│ ├── Spam_Detection.ipynb
-│ └── README.md
+│   ├── Spam_Detection.ipynb
+│   └── README.md
 ├── 02_RNN_Classification/
-│ ├── RNN_classification.ipynb
-│ └── README.md
+│   ├── RNN_classification.ipynb
+│   └── README.md
 └── README.md
